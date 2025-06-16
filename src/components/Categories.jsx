@@ -2,7 +2,7 @@ import React, { useRef, useState } from "react";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
 import phone from "../assets/categories/phone.png";
-import computer from "../assets/categories/computer.png";
+import computer from "../assets/categories/Computer.png";
 import smartwatch from "../assets/categories/Category-SmartWatch.png";
 import camera from "../assets/categories/Category-Camera.png";
 import headphones from "../assets/categories/headphones.png";
